@@ -8,7 +8,7 @@ Voor vragen kan je DryCrusader een DM sturen op Discord.
 
 - Persoon opzoeken (naam, BSN, persoonsnummer) en persoonsdossier met mutaties/bekeuringen
 - Vervoermiddel opzoeken
-- Documentscanning (ID-kaart, paspoort, rijbewijs, kentekenbewijs) via `nederland-character`
+- Documentscanning (ID-kaart, paspoort, rijbewijs, kentekenbewijs) via `crusader-character`
 - Locatie/Bluespot met automatische locatiebepaling en postcode-zoek
 - Digibon, Mutatie en Combibon afhandelen, gekoppeld aan persoonsdossiers
 - Feitcodes ingedeeld op maatschappelijke klasse
@@ -43,7 +43,7 @@ MEOS exporteert zelf niets voor andere scripts - het roept alleen exports van an
 | `es_extended` | `getSharedObject` | `client/meos_app_register.lua`, `server/meos_server.lua` (resourcenaam hardcoded) |
 | `qbx_core` / `qb-core` | `GetPlayerData`, `GetCoreObject` | `client/meos_app_register.lua`, `server/meos_server.lua` (resourcenaam hardcoded) |
 | Postcode-resource | `getNearest` | `Config.PostalResource` in `config.lua` |
-| `crusader-character` | `GetCurrentlyShownDocument` | `server/meos_server.lua`, regel met `exports['nederland-character']` (resourcenaam hardcoded) |
+| `crusader-character` | `GetCurrentlyShownDocument` | `server/meos_server.lua`, regel met `exports['crusader-character']` (resourcenaam hardcoded) |
 
 ## Licentie
 

@@ -2,6 +2,8 @@
 
 Politie-app voor FiveM, gebouwd als custom app voor lb-phone. Ondersteunt zowel ESX als Qbox/QB-Core. Het MEOS valt het beste te gebruiken met crusader-karakter. Daar zit een ID/Rijbewijs/Paspoort systeem in verwerkt. Crusader MEOS gebruikt exports voor het opzoeken van persoonsgegevens van crusader-karakter. Je dient deze exports in crusader-meos zelf aan te passen als je daar geen gebruik van wilt maken.
 
+Voor vragen kan je DryCrusader een DM sturen op Discord.
+
 ## Features
 
 - Persoon opzoeken (naam, BSN, persoonsnummer) en persoonsdossier met mutaties/bekeuringen
